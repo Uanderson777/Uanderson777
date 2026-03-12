@@ -42,3 +42,5 @@ Estou iniciando minha jornada no mundo da tecnologia e construindo meus primeiro
 Sou disciplinado, aprendo rápido e estou criando meus primeiros projetos para montar um portfólio sólido aqui no GitHub.
 
 ---
+
+
