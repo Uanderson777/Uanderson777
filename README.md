@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Uanderson Martins!
+👋 Olá, eu sou o Uanderson Martins!
 
-💻 **Estudante de Tecnologia | Futuro Desenvolvedor | Interessado em Inteligência Artificial**
+💻 Estudante de Tecnologia | Futuro Desenvolvedor | Interessado em Inteligência Artificial
 
 Estou iniciando minha jornada no mundo da tecnologia e construindo meus primeiros projetos em programação, automação e aplicações simples com IA. Meu foco é aprender todos os dias e desenvolver habilidades práticas para entrar no mercado.
 
 ---
 
-### 👀 Tenho interesse em:
+ 👀 Tenho interesse em:
 - Desenvolvimento de Software  
 - Python  
 - Inteligência Artificial e APIs de IA  
@@ -15,7 +15,7 @@ Estou iniciando minha jornada no mundo da tecnologia e construindo meus primeiro
 
 ---
 
-### 🌱 Atualmente estou aprendendo:
+ 🌱 Atualmente estou aprendendo:
 - Lógica de Programação  
 - Python  
 - Git e GitHub  
@@ -24,17 +24,16 @@ Estou iniciando minha jornada no mundo da tecnologia e construindo meus primeiro
 
 ---
 
-### 💼 Buscando oportunidades:
+💼 Buscando oportunidades:
 - Estágio em tecnologia  
 - Colaboração voluntária  
 - Projetos simples para iniciar minha experiência  
 - Trabalho remoto e entry level
 
----
 
-### 📫 Como me contatar:
-**Email:** uandersonmartinsrj@gmail.com (ou outro que você queira usar)  
-**LinkedIn:** *adicione o link se tiver*
+📫 Como me contatar:
+Email: uandersonmartins@gmail.com 
+LinkedIn:https://www.linkedin.com/in/uanderson-martins-672b45210/
 
 ---
 
