@@ -42,7 +42,7 @@ Todos os projetos estão disponíveis no meu GitHub para consulta e demonstraç�
 ---
 
 ## 📫 Contato
-- E-mail: uandersonmartins@gmail.com | uandersonmartins77@outlook.com  
+- E-mail: [uandersonmartins@gmail.com](mailto:uandersonmartins@gmail.com) | [uandersonmartins77@outlook.com](mailto:uandersonmartins77@outlook.com)  
 - LinkedIn: [Meu perfil](https://www.linkedin.com/in/uanderson-martins-672b45210/)  
 - GitHub: [Uanderson777](https://github.com/Uanderson777)
 
