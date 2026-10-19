@@ -10,18 +10,22 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **Banco de dados:** SQL, MySQL e SQLite
 - **Ferramentas:** Git, GitHub e Postman
 - **Interesses:** IA generativa, RAG e automação
+
 ## Conhecimentos complementares
+
 
 - Fundamentos de Service Desk e Help Desk
 - Noções de redes e comandos CMD
-- Atendimento e resolução de problemas técnicos
+-Atendimento e resolução de problemas técnicos
+
 ## Formação e cursos
 
+- **Algoritmos e Lógica de Programação — Curso em Vídeo:** 40 horas, curso 100% concluído.
 - **CI&T - Java AI Copilot — DIO:** bootcamp em andamento.
 - **Como a Web Funciona? — DIO:** fundamentos da Web e comunicação entre cliente e servidor.
 - **Programando o Mundo Real com Orientação a Objetos em Java — DIO:** conceitos de orientação a objetos aplicados ao Java.
 - Estudos de desenvolvimento Back-end com Python, Java, SQL e APIs REST.
-- **Formação em Service Desk — 40 horas:** capacitação em suporte técnico e atendimento de usuários.
+
 ## Projetos em destaque
 
 - **[rag-support-api](https://github.com/Uanderson777/rag-support-api):** API desenvolvida com Python, FastAPI e RAG.
