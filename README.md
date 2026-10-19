@@ -1,16 +1,32 @@
-👋 Olá! Sou Uanderson Martins, estudante de tecnologia e desenvolvedor em formação.
 
-💻 Tecnologias: Python, Java, SQL, APIs REST, Git/GitHub, HTML, CSS e JavaScript.
+# Olá, eu sou Uanderson Martins 👋
 
-🤖 Tenho interesse em desenvolvimento Back-end, automação e aplicações com Inteligência Artificial.
+Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em Python, Java, SQL, APIs REST e Inteligência Artificial.
 
-📂 Projetos em destaque:
-- rag-support-api — API de suporte técnico com RAG.
-- Presidencia_2026_DevArt — projeto JavaScript.
-- uanderson777.github.io — projeto web.
+## Tecnologias e ferramentas
 
-🎯 Busco oportunidades de entrada em Desenvolvimento Back-end, Suporte Técnico e Service Desk.
+- **Linguagens:** Python, Java e JavaScript
+- **Back-end:** FastAPI e APIs REST
+- **Banco de dados:** SQL, MySQL e SQLite
+- **Ferramentas:** Git, GitHub e Postman
+- **Interesses:** IA Generativa, RAG e automação
 
-GitHub: https://github.com/Uanderson777
-LinkedIn: https://linkedin.com/in/uanderson-martins-672b45210
+## Formação em andamento
 
+- CI&T - Java AI Copilot — DIO
+- Estudos de desenvolvimento Back-end com Python e Java
+
+## Projetos em destaque
+
+- **rag-support-api:** API de suporte técnico com RAG.
+- **Presidência_2026_DevArt:** projeto JavaScript.
+- **uanderson777.github.io:** projeto web pessoal.
+
+## Objetivo profissional
+
+Busco minha primeira oportunidade em tecnologia, com foco em Desenvolvimento Back-end, Suporte Técnico ou Service Desk.
+
+## Contato
+
+- GitHub: https://github.com/Uanderson777
+- LinkedIn: https://linkedin.com/in/uanderson-martins-672b45210
