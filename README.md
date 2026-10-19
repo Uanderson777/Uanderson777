@@ -21,7 +21,7 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **Como a Web Funciona? — DIO:** fundamentos da Web e comunicação entre cliente e servidor.
 - **Programando o Mundo Real com Orientação a Objetos em Java — DIO:** conceitos de orientação a objetos aplicados ao Java.
 - Estudos de desenvolvimento Back-end com Python, Java, SQL e APIs REST.
-
+- **Formação em Service Desk — 40 horas:** capacitação em suporte técnico e atendimento de usuários.
 ## Projetos em destaque
 
 - **[rag-support-api](https://github.com/Uanderson777/rag-support-api):** API desenvolvida com Python, FastAPI e RAG.
@@ -38,7 +38,7 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **Facebook:** [Meu perfil](https://www.facebook.com/profile.php?id=61591207650944)
 - **WhatsApp:** [Fale comigo](https://wa.me/5521992444504) +55 21 99244-4504
 
-- 
+
 
 ## Objetivo profissional
 
