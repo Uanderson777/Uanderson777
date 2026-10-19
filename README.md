@@ -1,4 +1,3 @@
-
 # Olá, eu sou Uanderson Martins 👋
 
 Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em Python, Java, SQL, APIs REST e Inteligência Artificial.
@@ -13,10 +12,9 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 
 ## Conhecimentos complementares
 
-
 - Fundamentos de Service Desk e Help Desk
 - Noções de redes e comandos CMD
--Atendimento e resolução de problemas técnicos
+- Atendimento e resolução de problemas técnicos
 
 ## Formação e cursos
 
@@ -28,11 +26,11 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 
 ## Projetos em destaque
 
-- **[rag-support-api](https://github.com/Uanderson777/rag-support-api):** API desenvolvida com Python, FastAPI e RAG.
-- **[pipeline-realtime-confluent](https://github.com/Uanderson777/pipeline-realtime-confluent):** projeto de pipeline de dados em tempo real com Confluent Cloud.
-- **[api-bancaria-fastapi](https://github.com/Uanderson777/api-bancaria-fastapi):** projeto de API bancária com FastAPI.
-- **[Presidência_2026_DevArt](https://github.com/Uanderson777/Presidência_2026_DevArt):** projeto desenvolvido com JavaScript.
-- **[Portfólio de tecnologia](https://github.com/Uanderson777/uanderson-martins-ti):** site pessoal com conteúdos e projetos de tecnologia.
+- [**rag-support-api**](https://github.com/Uanderson777/rag-support-api): API desenvolvida com Python, FastAPI e RAG.
+- [**pipeline-realtime-confluent**](https://github.com/Uanderson777/pipeline-realtime-confluent): pipeline de dados em tempo real com Confluent Cloud.
+- [**api-bancaria-fastapi**](https://github.com/Uanderson777/api-bancaria-fastapi): projeto de API bancária com FastAPI.
+- [**Presidência_2026_DevArt**](https://github.com/Uanderson777/Presid%C3%AAncia_2026_DevArt): projeto desenvolvido com JavaScript.
+- [**Portfólio de tecnologia**](https://github.com/Uanderson777/uanderson-martins-ti): site pessoal com conteúdos e projetos de tecnologia.
 
 ## Redes sociais e contato
 
@@ -42,17 +40,13 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **Facebook:** [Meu perfil](https://www.facebook.com/profile.php?id=61591207650944)
 - **WhatsApp:** [Fale comigo](https://wa.me/5521992444504) +55 21 99244-4504
 
-
-
 ## Objetivo profissional
 
-Busco minha primeira oportunidade em Desenvolvimento Back-end, com foco em Python, Java, SQL, APIs REST e Inteligência Artificial aplicada ao desenvolvimento de software.
+Busco minha primeira oportunidade em tecnologia, com foco em Desenvolvimento Back-end, Python, Java, SQL, APIs REST e Inteligência Artificial aplicada ao desenvolvimento de software. Também tenho interesse em oportunidades de entrada em Service Desk e Help Desk.
 
-Tenho me dedicado a construir projetos práticos e aprimorar continuamente meus conhecimentos em programação.
+Tenho me dedicado a desenvolver projetos práticos e ampliar meus conhecimentos em programação e suporte técnico.
 
-## Contato
+## LinkedIn
 
-- **GitHub:** [Uanderson777](https://github.com/Uanderson777)
-- **LinkedIn:** [Uanderson Martins](https://linkedin.com/in/uanderson-martins-672b45210)
-- **YouTube:** [Anderson Martins TV em Foco](https://www.youtube.com/@andersonmartins4037)
+- [Uanderson Martins](https://www.linkedin.com/in/uanderson-martins-672b45210/)
 
