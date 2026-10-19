@@ -26,6 +26,17 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **[Presidência_2026_DevArt](https://github.com/Uanderson777/Presidência_2026_DevArt):** projeto desenvolvido com JavaScript.
 - **[Portfólio de tecnologia](https://github.com/Uanderson777/uanderson-martins-ti):** site pessoal com conteúdos e projetos de tecnologia.
 
+## Redes sociais e contato
+
+- **LinkedIn:** [Uanderson Martins](https://www.linkedin.com/in/uanderson-martins-672b45210/)
+- **YouTube — Anderson Martins TV em Foco:** [Acessar canal](https://www.youtube.com/@andersonmartins4037)
+- **YouTube — Martins Games:** [Acessar canal](https://www.youtube.com/@MartinsGames-i3v)
+- **YouTube — terceiro canal:** adicionar o link do canal novo
+- **Instagram:** adicionar o link do Instagram novo
+- **TikTok:** adicionar o link do TikTok novo
+- **Facebook:** adicionar o link do Facebook novo
+- **WhatsApp:** [Fale comigo](https://wa.me/5521992444504)
+
 ## Objetivo profissional
 
 Busco minha primeira oportunidade em Desenvolvimento Back-end, com foco em Python, Java, SQL, APIs REST e Inteligência Artificial aplicada ao desenvolvimento de software.
