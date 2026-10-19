@@ -28,13 +28,14 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 
 ## Redes sociais e contato
 
+
 ## Redes sociais e contato
 
 - **YouTube — Martins Games:** [Acessar canal](https://www.youtube.com/@MartinsGames-i3v)
 - **YouTube — Martins Play:** [Acessar canal](https://www.youtube.com/@canalmartinsplayoficial)
 - **TikTok:** [Meu perfil](https://www.tiktok.com/@anderson83476)
-- **Facebook:** [Meu perfil novo](https://www.facebook.com/profile.php?id=61591207650944)
-- **WhatsApp:** [Fale comigo](https://wa.me/5521992444504) +55 21 99244-4504
+- **Facebook:** [Meu perfil](https://www.facebook.com/profile.php?id=61591207650944)
+- **WhatsApp:** [Fale comigo](https://wa.me/5521992444504)
 
 - 
 
