@@ -34,7 +34,7 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **YouTube — Martins Play:** [Acessar canal](https://www.youtube.com/@canalmartinsplayoficial)
 - **TikTok:** [Meu perfil](https://www.tiktok.com/@anderson83476)
 - **Facebook:** [Meu perfil novo](https://www.facebook.com/profile.php?id=61591207650944)
-- **WhatsApp:** [Fale comigo](https://wa.me/5521992444504)
+- **WhatsApp:** [Fale comigo](https://wa.me/5521992444504) +55 21 99244-4504
 
 - 
 
