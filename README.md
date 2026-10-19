@@ -10,7 +10,11 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 - **Banco de dados:** SQL, MySQL e SQLite
 - **Ferramentas:** Git, GitHub e Postman
 - **Interesses:** IA generativa, RAG e automação
+## Conhecimentos complementares
 
+- Fundamentos de Service Desk e Help Desk
+- Noções de redes e comandos CMD
+- Atendimento e resolução de problemas técnicos
 ## Formação e cursos
 
 - **CI&T - Java AI Copilot — DIO:** bootcamp em andamento.
