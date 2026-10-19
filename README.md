@@ -28,14 +28,15 @@ Sou estudante de tecnologia e desenvolvedor Back-end em formação, com foco em 
 
 ## Redes sociais e contato
 
-- **LinkedIn:** [Uanderson Martins](https://www.linkedin.com/in/uanderson-martins-672b45210/)
-- **YouTube — Anderson Martins TV em Foco:** [Acessar canal](https://www.youtube.com/@andersonmartins4037)
+## Redes sociais e contato
+
 - **YouTube — Martins Games:** [Acessar canal](https://www.youtube.com/@MartinsGames-i3v)
-- **YouTube — terceiro canal:** adicionar o link do canal novo
-- **Instagram:** adicionar o link do Instagram novo
-- **TikTok:** adicionar o link do TikTok novo
-- **Facebook:** adicionar o link do Facebook novo
+- **YouTube — Martins Play:** [Acessar canal](https://www.youtube.com/@canalmartinsplayoficial)
+- **TikTok:** [Meu perfil](https://www.tiktok.com/@anderson83476)
+- **Facebook:** [Meu perfil novo](https://www.facebook.com/profile.php?id=61591207650944)
 - **WhatsApp:** [Fale comigo](https://wa.me/5521992444504)
+
+- 
 
 ## Objetivo profissional
 
